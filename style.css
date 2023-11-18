@@ -1,0 +1,102 @@
+body {
+    font-family: fantasy,sans-serif;
+    font-size: xx-large;
+    background-color: bisque;
+}
+
+h1 {
+color: green;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+
+} 
+
+button { 
+    color: chartreuse;
+    background-color: saddlebrown;
+    height: fit-content;
+    width: fit-content ;
+    display: flex;
+    display: inline;
+    padding: 10px;
+    margin: 30px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: medium;
+
+}
+    
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    max-height: 50%;
+     }
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+
+
+    
+    
+    
+h3 {
+    font-size: xx-large;
+    margin: 10px;
+    padding: 1px;
+    
+      }
+    
+.headerpara {
+    margin: 1px;
+    padding: 30px;
+    
+    }
+    
+
+
+
+header {
+    border: 10px;
+    background-color: darkkhaki;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+        }
+ 
+
+.hns {
+    border: 10px;
+    background-color: darkkhaki;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 45px 0 45px;
+    flex-wrap: wrap;
+        } 
+
+
+
+.money {
+    font-size: medium;
+}
+
+
+
+
+
+
+
+        
+
+
+
